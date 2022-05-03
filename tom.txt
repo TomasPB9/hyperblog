@@ -2,3 +2,6 @@ celaya
 Tomas
 Para generar conflicto desde dev
 Cambio desde repo local 
+
+
+cambio desde GITHUB
