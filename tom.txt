@@ -6,4 +6,5 @@ Cambio desde repo local
 
 cambio desde GITHUB
 
-Cambio en footers
+Cambio en FOOTERS
+Usando entidades HTML
